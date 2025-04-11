@@ -1,1 +1,0 @@
-# laboratorio-2-operativos
